@@ -1,0 +1,132 @@
+# Evaluation & production
+
+Weeks 11–12 · suggested pace
+
+Make your capstone measurable and reliable.
+
+- [ ] Create an evaluation set covering success cases and expected failures.
+- [ ] Track task success, latency, cost and groundedness.
+- [ ] Document access controls, monitoring, rollback and known limitations.
+
+## Deliverable
+
+Finish a portfolio case study with a demo, evaluation results and architecture diagram.
+
+## Your saved resources
+
+- [Perspectives on AI and the future of work](https://www.linkedin.com/feed/update/urn:li:activity:7507423409664851968) — Rathnakumar Udayakumar
+- [Twenty metrics for AI products](https://www.linkedin.com/feed/update/urn:li:activity:7506770432323309568) — Atiq Rehman
+- [Reliability and observability for agents](https://www.linkedin.com/feed/update/urn:li:activity:7506658849693528064) — Srinivas Dande
+- [Enterprise AI architecture trade-offs](https://www.linkedin.com/feed/update/urn:li:activity:7506705206907355136) — Vaibhav Aggarwal
+- [Software delivery in an agentic workflow](https://www.linkedin.com/feed/update/urn:li:activity:7506292767908855808) — Srinivas Dande
+- [Circuit breakers for reliable services](https://www.linkedin.com/feed/update/urn:li:activity:7506654530575552512) — Anup Panwar
+- [Designing predictable REST APIs](https://www.linkedin.com/feed/update/urn:li:activity:7506645187075633152) — Snahasis Barat
+- [Astra and Fable shipped. Yet across all our customer's PRs we're still seeing the same number…](https://www.linkedin.com/feed/update/urn:li:activity:7506739380166889473) — Aiswarya Sankar
+- [Engineering the layers around the model](https://www.linkedin.com/feed/update/urn:li:activity:7504292532626046976) — Neurolynx
+- [Evaluating LLM quality and reliability](https://www.linkedin.com/feed/update/urn:li:activity:7506324443296747520) — Alok Sharan
+- [Optimizing inference cost and performance](https://www.linkedin.com/feed/update/urn:li:activity:7504794556425752577) — Sabyasachi Datta
+- [Communication patterns for distributed systems](https://www.linkedin.com/feed/update/urn:li:activity:7506289182856769536) — Anup Panwar
+- [Skills for building reliable AI systems](https://www.linkedin.com/feed/update/urn:li:activity:7505468239137689601) — Ravena O
+- [🛠️🧭 Skills vs MCP vs RAG vs Memory What AI Agents Need to Know. My 4-part…](https://www.linkedin.com/feed/update/urn:li:activity:7505707614836662274) — Maryam Miradi, PhD
+- [Planning governance in the AI stack](https://www.linkedin.com/feed/update/urn:li:activity:7506074136771866625) — Gabriel Millien
+- [Your AI engineering portfolio is one weekend away. I learned more by building one complete AI…](https://www.linkedin.com/feed/update/urn:li:activity:7505959386612371456) — Anjali Viramgama
+- [Microservice anti-patterns in production](https://www.linkedin.com/feed/update/urn:li:activity:7505588572880584704) — Rocky Bhatia
+- [Mapping the enterprise AI stack](https://www.linkedin.com/feed/update/urn:li:activity:7505553996464603138) — Rathnakumar Udayakumar
+- [The journey of a production AI request](https://www.linkedin.com/feed/update/urn:li:activity:7505207510824448001) — Vansh Budhiraja
+- [AI engineering beyond prompting](https://www.linkedin.com/feed/update/urn:li:activity:7503075344908951552) — Shanmukha sai Nayudu
+- [Layers of the AI engineering skill stack](https://www.linkedin.com/feed/update/urn:li:activity:7504503530548936704) — Rocky Bhatia
+- [Harness engineering for reliable agents](https://www.linkedin.com/feed/update/urn:li:activity:7503108233709051904) — Durga Prasad Mokara
+- [Eight AI infrastructure concepts](https://www.linkedin.com/feed/update/urn:li:activity:7501182349167144960) — AI for Jobs
+- [The highest paid AI roles in 2026 are not the ones training models. They are the…](https://www.linkedin.com/feed/update/urn:li:activity:7502931384223645696) — Hina Arora
+- [Want to build AI agents in 2026? Start here. 12 free courses, taught by Anthropic, Google…](https://www.linkedin.com/feed/update/urn:li:activity:7502678290932101120) — Stanislav Beliaev
+- [MIT put the syllabus on the internet and half the internet still pays for the same…](https://www.linkedin.com/feed/update/urn:li:activity:7501568071942266880) — Vikas G.
+- [AI is no longer just about choosing the right model. Most people still think building an…](https://www.linkedin.com/feed/update/urn:li:activity:7500867034570711040) — Aditya Kushwaha
+- [These 9 AI concepts can give you a serious edge in 2026: Thanks to Brij Kishore…](https://www.linkedin.com/feed/update/urn:li:activity:7502743064667504640) — AI Evolution
+- [🏗️ Most AI failures aren't model failures. They are architecture failures. If you treat an enterprise…](https://www.linkedin.com/feed/update/urn:li:activity:7500770931045412865) — Fayoz Azami
+- [Stop scrolling. Bookmark this AI agents goldmine. Microsoft quietly dropped a full AI agents guide. 11…](https://www.linkedin.com/feed/update/urn:li:activity:7502283197054001152) — AI: Artificial Intelligence
+- [🛠️🧭 The Art of Loop Engineering: How to Build AI Agents That Improve Over Time. This…](https://www.linkedin.com/feed/update/urn:li:activity:7501350876884770817) — Maryam Miradi, PhD
+- [Building AI Agents Is a Systems Engineering Problem There’s a difference between an LLM application that…](https://www.linkedin.com/feed/update/urn:li:activity:7501494485474967552) — Sathish V
+- [15 Agentic AI Concepts Every AI Builder Should Know 👇 Most people learn agents as one…](https://www.linkedin.com/feed/update/urn:li:activity:7500185558019842048) — Sherry Jasal
+- [Stanford just dropped its entire LLM course on YouTube. 9 lectures. No paywall. No recycled prompt-engineering…](https://www.linkedin.com/feed/update/urn:li:activity:7502055814233227265) — Andrew STF
+- [Stanford's full LLM course is now FREE. 9 lectures from Transformers to Agentic systems. If you're…](https://www.linkedin.com/feed/update/urn:li:activity:7502201699911200768) — Raunak Yadush
+- [The AI tool stack is getting crowded fast. The real advantage does not come from trying…](https://www.linkedin.com/feed/update/urn:li:activity:7502254456739135488) — Denis Panjuta
+- [Voice AI agents fail long before the LLM says a word. I mapped out a production…](https://www.linkedin.com/feed/update/urn:li:activity:7501508097555718144) — Aakriti Aggarwal
+- [Enterprise AI, simplified. I often find that the ecosystem looks complicated because there are hundreds of…](https://www.linkedin.com/feed/update/urn:li:activity:7501624911770312706) — Prashant Rathi
+- [🚨 Building AI Agents Is 5% Model + 95% Engineering. Most people focus on the model…](https://www.linkedin.com/feed/update/urn:li:activity:7500740902404075520) — AI for Jobs
+- [Building AI agents is 5% model + 95% engineering. Getting an agent to work reliably inside…](https://www.linkedin.com/feed/update/urn:li:activity:7500515424187551744) — Alex Wang
+- [Most AI projects don’t fail because of the model. They fail because of the operating model…](https://www.linkedin.com/feed/update/urn:li:activity:7500160739232505856) — Dr. Naga Ravi Shankar Mulagaleti
+- [AI products do not go from prompt to production in one step. There is an entire…](https://www.linkedin.com/feed/update/urn:li:activity:7498386914387947521) — Greg Coquillo
+- [AI agents are easy to demo. Production is harder. A production-ready agent needs much more than…](https://www.linkedin.com/feed/update/urn:li:activity:7497919085356367872) — Shalini Goyal
+- [Every AI project starts with the same debate. LangGraph or CrewAI? OpenAI SDK or Claude Code?…](https://www.linkedin.com/feed/update/urn:li:activity:7497911035022983168) — Prashant Rathi
+- [LinkedIn Post Open-Source Agentic AI Tech Stack 🤖 Building reliable AI agents is no longer just…](https://www.linkedin.com/feed/update/urn:li:activity:7497138303125827585) — Anurag Kumar Singh
+- [A few days ago someone messaged me: “Brij, should I go with tool calling, MCP, or…](https://www.linkedin.com/feed/update/urn:li:activity:7495490385910243328) — Brij Kishore Pandey
+- [Autonomy starts where generation ends. An LLM can understand instructions and create responses, but it cannot…](https://www.linkedin.com/feed/update/urn:li:activity:7495438034579017728) — Rocky Bhatia
+- [Building an AI agent is easy. Engineering one that can operate reliably is much harder. Once…](https://www.linkedin.com/feed/update/urn:li:activity:7493433961373704192) — AI Engineer
+- [AI automation is moving from scripts to systems that can plan, act, and collaborate. That progression…](https://www.linkedin.com/feed/update/urn:li:activity:7495042564270620673) — Rathnakumar Udayakumar
+- [Harness, meta-harness, self-improving harness. The layer everyone is suddenly building for AI agents. Most people use…](https://www.linkedin.com/feed/update/urn:li:activity:7494046825721815041) — Daniel N. Rocha
+- [The model is only the brain. The enterprise needs the whole nervous system. That is what…](https://www.linkedin.com/feed/update/urn:li:activity:7495110915206496256) — Vaibhav Aggarwal
+- [Most aspiring AI engineers don’t need another course. They need better code to study. 🤖 AI…](https://www.linkedin.com/feed/update/urn:li:activity:7493339289276276736) — Renuka M.
+- [Autonomy is a spectrum, not a switch. An AI system does not become an agent simply…](https://www.linkedin.com/feed/update/urn:li:activity:7484945878323994624) — Rocky Bhatia
+- [Not all AI processors are built for the same job. We often talk about “AI compute”…](https://www.linkedin.com/feed/update/urn:li:activity:7492452182718406657) — Prem N.
+- [Most people think Claude is a chatbot. But Anthropic is building something much bigger: an agentic…](https://www.linkedin.com/feed/update/urn:li:activity:7494384909659107328) — Aruneesh Salhotra
+- [🚀 The next Enterprise AI Platform may NOT be another AI Chatbot. It could be an…](https://www.linkedin.com/feed/update/urn:li:activity:7494594552029216768) — Neelesh Dubey
+- [The Claude Roadmap. 20 steps from your first prompt to using it like someone who actually…](https://www.linkedin.com/feed/update/urn:li:activity:7493943676281454593) — Muhammad Shadab Shams
+- [How LLMs Generate Text An LLM doesn’t “think” in sentences. At every step, it predicts the…](https://www.linkedin.com/feed/update/urn:li:activity:7493523367006965760) — Prashant Varshney
+- [Every AI tool integration starts as “just one API call.” Then you add another model. Another…](https://www.linkedin.com/feed/update/urn:li:activity:7488284705633644544) — Brij Kishore Pandey
+- [AI isn't just changing the tools we use. It's changing the skills that make people valuable…](https://www.linkedin.com/feed/update/urn:li:activity:7494602428814827520) — Aadit Gupta
+- [The more I work with AI coding agents, the more I think people are misunderstanding one…](https://www.linkedin.com/feed/update/urn:li:activity:7493397817751834625) — Fernain Joseff Betancourt, MBA
+- [You can build a serious AI system without starting with an expensive infrastructure bill. The right…](https://www.linkedin.com/feed/update/urn:li:activity:7487171409023074306) — Rathnakumar Udayakumar
+- [🛡️ AI Agents in Production: Guardrails Matter More Than Prompts Building an AI agent that works…](https://www.linkedin.com/feed/update/urn:li:activity:7493289109818335232) — Kiran Bajjuri
+- [AWS has over 200 services. I get paid to understand 12 of them properly. Not because…](https://www.linkedin.com/feed/update/urn:li:activity:7490360921567981569) — Jaswindder Kummar
+- [Design a RAG pipeline capable of serving 10+ million documents (different sources) with extremely low hallucination…](https://www.linkedin.com/feed/update/urn:li:activity:7493043654102564864) — Arvind Ojha
+- [AI in 2023 vs AI in 2026: From Prompting to AI Engineering 🚀 In 2023, being…](https://www.linkedin.com/feed/update/urn:li:activity:7493992869326643200) — Mukesh Kumar
+- [Everyone is talking about AI Agents. Very few understand the frameworks behind them. That is where…](https://www.linkedin.com/feed/update/urn:li:activity:7493868272266911745) — Manas Dasgupta
+- [MCP and A2A solve different problems. They are often discussed together, but their architectures and responsibilities…](https://www.linkedin.com/feed/update/urn:li:activity:7494305519852019712) — Rathnakumar Udayakumar
+- [AI costs more than the business case suggests. Most AI budgets get approved around the visible…](https://www.linkedin.com/feed/update/urn:li:activity:7494378808637030401) — Vaibhav Aggarwal
+- [When I first started learning how production AI systems actually work, I found that thinking of…](https://www.linkedin.com/feed/update/urn:li:activity:7492425750105731072) — Supuni Manamperi
+- [AI is only valuable when it solves a real business constraint. The challenge for enterprise leaders…](https://www.linkedin.com/feed/update/urn:li:activity:7493998738999255040) — Matthew Coombs
+- [Production AI is where models meet reality. Building a model is only one part of the…](https://www.linkedin.com/feed/update/urn:li:activity:7493971062624280576) — AI Digital
+- [Your AI agent is only as safe as the actions it is allowed to take. The…](https://www.linkedin.com/feed/update/urn:li:activity:7494038567057252353) — Greg Coquillo
+- [In production, AI applications are rarely limited by the model alone. They are limited by the…](https://www.linkedin.com/feed/update/urn:li:activity:7494002342347014144) — Alok Sharan
+- [Top 9 RAG Architectures For Enterprise AI The right design depends on the type of data…](https://www.linkedin.com/feed/update/urn:li:activity:7493924436627341312) — Prashant Rathi
+- [Static RAG is not dead. But it is no longer enough for every AI system. Most…](https://www.linkedin.com/feed/update/urn:li:activity:7493327979457142785) — Abdul Rehman
+- [Over 40% of AI agent projects will be scrapped by 2027 not because the agents failed…](https://www.linkedin.com/feed/update/urn:li:activity:7492559507995406336) — Rakesh Gohel
+- [System design is the highest-leverage skill in software engineering. It's also the one that gets you…](https://www.linkedin.com/feed/update/urn:li:activity:7492200204578836480) — Rocky Bhatia
+- [A production ready RAG Agent is much more than retrieval and generation. it's a system that…](https://www.linkedin.com/feed/update/urn:li:activity:7493862005628534784) — Muhammad Usman Shahbaz
+- [Getting an AI model to work is one thing. Getting it to survive production traffic, failures…](https://www.linkedin.com/feed/update/urn:li:activity:7493659193669787648) — Vaibhav Aggarwal
+- [You can use the same LLM and still get very different outputs. Why? Because model behavior…](https://www.linkedin.com/feed/update/urn:li:activity:7492410716256157696) — Prabhata Kumar Maharana
+- [RAG is not just “connect an LLM to a vector database.” A production-ready RAG system is…](https://www.linkedin.com/feed/update/urn:li:activity:7493660738411020288) — Rathnakumar Udayakumar
+- [AI Product Management is overhyped. That is what I told myself when I first started working…](https://www.linkedin.com/feed/update/urn:li:activity:7492803234063966210) — Sid Arora
+- [AI agents get powerful when you give them the right tools. Here are 10 GitHub repositories…](https://www.linkedin.com/feed/update/urn:li:activity:7493569400088719360) — Shalini Goyal
+- [🚀 LLM Ecosystem: From Data to Intelligent Business Applications Download PDF: https://lnkd.in/dWMiTY4N What does it actually…](https://www.linkedin.com/feed/update/urn:li:activity:7493537105135038464) — Mishti Roy
+- [You can learn AI for free in 2026. The challenge is not finding content. It is…](https://www.linkedin.com/feed/update/urn:li:activity:7493306078814945281) — Denis Panjuta
+- [Google Cloud revenue grew 82%+ YoY in Q2. The agent platform is part of why. Alphabet…](https://www.linkedin.com/feed/update/urn:li:activity:7491533958761926656) — Hemant Virmani
+- [20 AI roles are booming. Most people can't name five. The job market is splitting right…](https://www.linkedin.com/feed/update/urn:li:activity:7493305393243209728) — Matt Village
+- [Anthropic has released 15 free Claude courses. All with certificates. No paid subscription needed. Just create…](https://www.linkedin.com/feed/update/urn:li:activity:7492535295968632832) — Yonathan Levy
+- [🚀 Designing a Production-Ready Agentic AI Architecture I’ve been exploring what it actually takes to move…](https://www.linkedin.com/feed/update/urn:li:activity:7491830862536183809) — Pratyaksh Gour
+- [🚀 Taking an AI Agent from Prototype → Production? Building an AI agent is easy. Building…](https://www.linkedin.com/feed/update/urn:li:activity:7492973693594357760) — MOHAMMED AFFAAN KHAN
+- [AI engineering goes far beyond prompting. To build reliable AI systems, you need to understand how…](https://www.linkedin.com/feed/update/urn:li:activity:7493293033254367232) — Vaibhav Aggarwal
+- [Anthropic dropped 8 hours and 23 minutes worth of talks on Claude from their "Code w/…](https://www.linkedin.com/feed/update/urn:li:activity:7493309735765471232) — Prasad Rao
+- [“AI Product Manager” sounds like a completely different job. But is it really? I’ve been learning…](https://www.linkedin.com/feed/update/urn:li:activity:7492658311838711808) — Praveen T
+- [🚀 We’re all evaluating AI systems. But are we evaluating them correctly? Whether you're building an…](https://www.linkedin.com/feed/update/urn:li:activity:7492791924060459009) — Ankit Pangasa
+- [You DON’T need to become a software engineer to become an AI Product Manager. But you…](https://www.linkedin.com/feed/update/urn:li:activity:7492765186815123456) — Kanchan Kumari
+- [🚀 LangGraph changed the way I build AI applications. LangChain is excellent for linear workflows, but…](https://www.linkedin.com/feed/update/urn:li:activity:7491938790769545216) — Deepak Kamboj
+- [I wasted three weeks evaluating tools from the wrong layer. Needed better retrieval for our RAG…](https://www.linkedin.com/feed/update/urn:li:activity:7492784375680544769) — Hina Arora
+- [🚀 Roadmap to Becoming an Agentic AI Engineer AI is moving beyond simple prompts. The real…](https://www.linkedin.com/feed/update/urn:li:activity:7491443178764664832) — ZAIN UL ABDIN GHANI
+- [Skip the AI course. Study these 12 repos instead. Most AI courses move slow, stay surface…](https://www.linkedin.com/feed/update/urn:li:activity:7491705675627089920) — Content Lessons
+- [A better LLM doesn’t automatically mean better answers. You can deploy the most powerful model available…](https://www.linkedin.com/feed/update/urn:li:activity:7492548763408863232) — Ravena O
+- [Most people learning AI Product Management are learning it backwards. They start with models, prompts, RAG…](https://www.linkedin.com/feed/update/urn:li:activity:7491811425779367936) — Vikram V Saluja
+- [If you want to become an AI Product Manager, build an AI agent. Not a course…](https://www.linkedin.com/feed/update/urn:li:activity:7492418259946905600) — Rakesh Kamath
+- [An AI system can have a powerful model and still collapse under production traffic. Because once…](https://www.linkedin.com/feed/update/urn:li:activity:7492640917242400768) — Prashant Rathi
+- [If you are still only talking about prompts, you are already behind. The AI skill stack…](https://www.linkedin.com/feed/update/urn:li:activity:7492543086049296384) — Rocky Bhatia
+- [Agentic AI is becoming a real stack. What used to feel experimental is now turning into…](https://www.linkedin.com/feed/update/urn:li:activity:7492576759297699841) — Vaibhav Aggarwal
+- ["What's a harness?" PMs keep asking me that. Loops too. People hear "agent loop" and think…](https://www.linkedin.com/feed/update/urn:li:activity:7492198080147275776) — Paweł Huryn
+- [AI moves fast. Learn with a clear path. To master AI/ML, LLMs, RAG, agents, and production…](https://www.linkedin.com/feed/update/urn:li:activity:7492591107428716545) — Greg Coquillo
+- [99% of Product Managers think building an AI Agent is a developer's job. That's exactly why…](https://www.linkedin.com/feed/update/urn:li:activity:7491480681949208577) — Aman Pande
+- [Airbnb’s GenAI Evaluation Stack is a masterclass in building trustworthy AI. The biggest lesson isn’t using…](https://www.linkedin.com/feed/update/urn:li:activity:7491357514421354497) — Rishav Singh
+- [Most people use the word Agentic AI. Very few can explain what separates it from Gen…](https://www.linkedin.com/feed/update/urn:li:activity:7491343546088812546) — Vidvatta
+- [Chatbots respond. Agents operate. That is the shift from conversational AI to systems that can understand…](https://www.linkedin.com/feed/update/urn:li:activity:7492195705948758016) — Denis Panjuta
+- [I curated 15 Crucial AI Agent Design Patterns. Most AI engineers don't know half of these…](https://www.linkedin.com/feed/update/urn:li:activity:7491934672931827712) — Maryam Miradi, PhD
+- [Building an AI agent is easy. Building one that can reason, use tools, remember context, stay…](https://www.linkedin.com/feed/update/urn:li:activity:7491068312844587008) — Rathnakumar Udayakumar
+- [One gateway can bring order to an entire AI ecosystem. As enterprises add more models, copilots…](https://www.linkedin.com/feed/update/urn:li:activity:7491191767036346368) — Prashant Rathi
+- [Microsoft Senior AI developer just showed how they build AI agents with Claude at Microsoft. 34-minutes…](https://www.linkedin.com/feed/update/urn:li:activity:7463920170433101824) — Divyanshi Sharma

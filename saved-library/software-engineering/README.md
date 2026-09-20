@@ -1,0 +1,26 @@
+# Software & engineering
+
+- [Circuit breakers for reliable services](https://www.linkedin.com/feed/update/urn:li:activity:7506654530575552512) — Anup Panwar
+- [Designing predictable REST APIs](https://www.linkedin.com/feed/update/urn:li:activity:7506645187075633152) — Snahasis Barat
+- [Communication patterns for distributed systems](https://www.linkedin.com/feed/update/urn:li:activity:7506289182856769536) — Anup Panwar
+- [System design foundations](https://www.linkedin.com/feed/update/urn:li:activity:7505969332758355968) — Neo Kim
+- [Microservice anti-patterns in production](https://www.linkedin.com/feed/update/urn:li:activity:7505588572880584704) — Rocky Bhatia
+- [System design beyond the diagram](https://www.linkedin.com/feed/update/urn:li:activity:7505528229936521216) — Shalini Goyal
+- [Five patterns. One critical choice. Software architecture determines how easily an application can grow, change, and…](https://www.linkedin.com/feed/update/urn:li:activity:7502304247770746880) — Anup Panwar
+- [You might think “caching” = Redis. But in real system design... Caching is a stack, not…](https://www.linkedin.com/feed/update/urn:li:activity:7500517127179722752) — Rocky Bhatia
+- [🚀 Why Some Java Microservices Are Slower Than a Monolith “We moved to microservices, so why…](https://www.linkedin.com/feed/update/urn:li:activity:7498409978592907264) — Tarun Niluroutu
+- [Microservices patterns are easy to memorize. Choosing the right one and understanding its cost is much…](https://www.linkedin.com/feed/update/urn:li:activity:7498318487719849984) — Arslan Ahmad
+- [Lending PM Series — Part 4 🚀 LOS is much more than a loan application system…](https://www.linkedin.com/feed/update/urn:li:activity:7495043871127699456) — Soumya Routray
+- [A GenAI system can be technically impressive and still be financially inefficient. I see this happen…](https://www.linkedin.com/feed/update/urn:li:activity:7495101978784604161) — Prashant Rathi
+- [Instagram looks simple on the screen. Behind every post, feed refresh, search, notification, and video upload…](https://www.linkedin.com/feed/update/urn:li:activity:7495060741352312833) — Anup Panwar
+- [5 REST API Design Mistakes I Keep Seeing in Backend Projects Building a REST API is…](https://www.linkedin.com/feed/update/urn:li:activity:7494344999724175360) — Dnyaneshwar Ghodake
+- [12 Architecture Concepts Every Backend Engineer Should Know Building scalable systems isn't just about writing more…](https://www.linkedin.com/feed/update/urn:li:activity:7494345184093138944) — Aqeel Haider
+- [Data modeling shapes everything downstream. The way you structure data directly affects performance, scalability, reporting, analytics…](https://www.linkedin.com/feed/update/urn:li:activity:7494342643791872000) — Ashish Joshi
+- [The best way to learn data engineering is to work with real data. Tutorials teach concepts…](https://www.linkedin.com/feed/update/urn:li:activity:7494012080598052865) — Sumit Gupta 📊
+- [What really happens when you hit Send on WhatsApp? It feels instant but behind the scenes…](https://www.linkedin.com/feed/update/urn:li:activity:7493630092104052736) — Rocky Bhatia
+- [Most of us use Netflix but do we understand the complex system design behind it that…](https://www.linkedin.com/feed/update/urn:li:activity:7492844237957476353) — Shalini Goyal
+- [Building resilient backend architectures requires mastering core API principles. Here is a breakdown of 20 Core…](https://www.linkedin.com/feed/update/urn:li:activity:7490628832178311168) — Imran Nur
+- [🚀 20 API Concepts Every Software Engineer Should Know 1️⃣ Endpoint The URL through which a…](https://www.linkedin.com/feed/update/urn:li:activity:7492418594094510080) — Ankit Pangasa
+- [Master Mathematics for Data Analytics For Free [12 YouTube Videos to Build the Math Skills Every…](https://www.linkedin.com/feed/update/urn:li:activity:7491868152721678337) — Sohan Sethi
+- [Every startup begins with an idea. But before writing code, raising capital, or building a product…](https://www.linkedin.com/feed/update/urn:li:activity:7491512240324399104) — Peyman Shahmirzadi
+- [✨ Exploring Design Patterns in a Nutshell! ✨ 1. Factory Pattern 🏭 Imagine a factory that…](https://www.linkedin.com/feed/update/urn:li:activity:7143948507593252864) — Rahul Sharma
