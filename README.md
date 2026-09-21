@@ -1,4 +1,4 @@
-# AI/ML Atlas
+# i280Labs
 
 A local learning workspace containing all 342 posts and articles exposed by your LinkedIn saved list on September 20, 2026.
 
