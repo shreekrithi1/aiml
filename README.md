@@ -27,9 +27,11 @@ Imported all 342 cards exposed by **Saved posts and articles**, continuing until
 
 Local import snapshots and backups are excluded from Git. `saved-library/` contains reading lists by topic. Categorization is suggested automatically from post content; original curated titles and stages remain intact. This is a one-time snapshot, not live synchronization. Excerpts are short quotations; follow original links for full posts and carousel slides.
 
-## Hosting
+## Hosting on Vercel
 
-Local app only. The installed Sites skill's setup scripts and hosting instructions were unavailable, so hosting was not completed. The server is intended for trusted local use, not direct public exposure.
+The repository includes `vercel.json`. Use the repository root as Root Directory; the build runs `node scripts/build-static.mjs` and publishes `dist/`. No server or dependencies are required for the hosted version.
+
+Hosted notes, reading status and milestones persist in this browser using localStorage. They do not sync across devices and may be lost if site data is cleared; use Export library for a backup. The build clears personal notes and progress from the published library. Local `python3 server.py` continues to save progress to `data/library.json`.
 
 ## In-app reading
 
